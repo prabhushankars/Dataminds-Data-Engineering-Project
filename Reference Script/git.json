@@ -1,52 +1,52 @@
 [
-   {
-      "p_rel_URL":"prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Calendar.csv",
-      "p_dyn_folder":"Dataminds_Calendar",
-      "p_dyn_sink":"Calendar"
-   },
-   {
-      "p_rel_URL":"prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Customers.csv",
-      "p_dyn_folder":"Dataminds_Customers",
-      "p_dyn_sink":"Customers"
-   },
-   {
-      "p_rel_URL":"prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Product_Categories.csv",
-      "p_dyn_folder":"Dataminds_Product_Categories",
-      "p_dyn_sink":"Product_Categories"
-   },
-   {
-      "p_rel_URL":"prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Product_Subcategories.csv",
-      "p_dyn_folder":"Dataminds_Product_Subcategories",
-      "p_dyn_sink":"Product_Subcategories"
-   },
-   {
-      "p_rel_URL":"prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Products.csv",
-      "p_dyn_folder":"Dataminds_Products",
-      "p_dyn_sink":"Products"
-   },
-   {
-      "p_rel_URL":"prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Returns.csv",
-      "p_dyn_folder":"Dataminds_Returns",
-      "p_dyn_sink":"Returns"
-   },
-   {
-      "p_rel_URL":"prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Sales_2015.csv",
-      "p_dyn_folder":"Dataminds_Sales_2015",
-      "p_dyn_sink":"Sales_2015"
-   },
-   {
-      "p_rel_URL":"prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Sales_2016.csv",
-      "p_dyn_folder":"Dataminds_Sales_2016",
-      "p_dyn_sink":"Sales_2016"
-   },
-   {
-      "p_rel_URL":"prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Sales_2017.csv",
-      "p_dyn_folder":"Dataminds_Sales_2017",
-      "p_dyn_sink":"Sales_2017"
-   },
-   {
-      "p_rel_URL":"prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Territories.csv",
-      "p_dyn_folder":"Dataminds_Territories",
-      "p_dyn_sink":"Territories"
-   }
+    {
+        "p_rel_URL": "prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Calendar.csv",
+        "p_dyn_folder": "Dataminds_Calendar",
+        "p_dyn_sink": "Calendar.csv"
+    },
+    {
+        "p_rel_URL": "prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Customers.csv",
+        "p_dyn_folder": "Dataminds_Customers",
+        "p_dyn_sink": "Customers.csv"
+    },
+    {
+        "p_rel_URL": "prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Product_Categories.csv",
+        "p_dyn_folder": "Dataminds_Product_Categories",
+        "p_dyn_sink": "Product_Categories.csv"
+    },
+    {
+        "p_rel_URL": "prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Product_Subcategories.csv",
+        "p_dyn_folder": "Dataminds_Product_Subcategories",
+        "p_dyn_sink": "Product_Subcategories.csv"
+    },
+    {
+        "p_rel_URL": "prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Products.csv",
+        "p_dyn_folder": "Dataminds_Products",
+        "p_dyn_sink": "Products.csv"
+    },
+    {
+        "p_rel_URL": "prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Returns.csv",
+        "p_dyn_folder": "Dataminds_Returns",
+        "p_dyn_sink": "Returns.csv"
+    },
+    {
+        "p_rel_URL": "prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Sales_2015.csv",
+        "p_dyn_folder": "Dataminds_Sales_2015",
+        "p_dyn_sink": "Sales_2015.csv"
+    },
+    {
+        "p_rel_URL": "prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Sales_2016.csv",
+        "p_dyn_folder": "Dataminds_Sales_2016",
+        "p_dyn_sink": "Sales_2016.csv"
+    },
+    {
+        "p_rel_URL": "prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Sales_2017.csv",
+        "p_dyn_folder": "Dataminds_Sales_2017",
+        "p_dyn_sink": "Sales_2017.csv"
+    },
+    {
+        "p_rel_URL": "prabhushankars/Dataminds-Data-Engineering-Project/refs/heads/main/Data/Dataminds_Territories.csv",
+        "p_dyn_folder": "Dataminds_Territories",
+        "p_dyn_sink": "Territories.csv"
+    }
 ]
